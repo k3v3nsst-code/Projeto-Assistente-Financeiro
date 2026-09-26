@@ -113,22 +113,4 @@ Acesse `http://localhost:8501`.
 - [Métricas e Avaliação](./docs/04-metricas.md)
 - [Pitch de Apresentação](./docs/05-pitch.md)
 
----
 
-## Configuração para GitHub
-
-### Se o Git já está instalado:
-```bash
-git init
-git add .
-git commit -m "feat: assistente financeiro com dados de setembro 2026"
-git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-git push -u origin main
-```
-
-### Se o Git NÃO está instalado:
-1. Baixe e instale o Git: https://git-scm.com/downloads
-2. Reinicie o terminal/PowerShell
-3. Execute os comandos acima
-```
