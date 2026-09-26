@@ -1,11 +1,5 @@
 # 💎 Mentor Financeiro — Agente Inteligente (Aurora)
 
-<p align="center">
-  <b>Sua mentora financeira pessoal para uma jornada inteligente e sem stress</b>
-</p>
-
----
-
 ## 📌 Sobre o Projeto
 
 O **Mentor Financeiro (Aurora)** é um assistente virtual de educação financeira desenvolvido como protótipo para ajudar **iniciantes** a organizar suas finanças e dar os primeiros passos nos investimentos.
