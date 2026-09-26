@@ -1,0 +1,123 @@
+[
+  {
+    "nome": "Tesouro Selic",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade_num": 13.75,
+    "rentabilidade_tipo": "percentual_selic",
+    "rentabilidade_desc": "100% da taxa Selic",
+    "aporte_minimo": 30.00,
+    "indicado_para": "Reserva de emergência e iniciantes",
+    "fonte": "Tesouro Direto - setembro 2026"
+  },
+  {
+    "nome": "CDB Liquidez Diária",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade_num": 14.18,
+    "rentabilidade_tipo": "percentual_cdi",
+    "rentabilidade_desc": "102% do CDI",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem busca segurança com rendimento diário",
+    "fonte": "CDI 13,90% a.a. - setembro 2026"
+  },
+  {
+    "nome": "LCI/LCA",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade_num": 11.81,
+    "rentabilidade_tipo": "percentual_cdi",
+    "rentabilidade_desc": "85% do CDI (isento de IR)",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quem pode esperar 90 dias (isento de IR)",
+    "fonte": "CDI 13,90% a.a. - setembro 2026"
+  },
+  {
+    "nome": "Fundo Multimercado",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade_num": 15.90,
+    "rentabilidade_tipo": "percentual_cdi_plus",
+    "rentabilidade_desc": "CDI + 2%",
+    "aporte_minimo": 500.00,
+    "indicado_para": "Perfil moderado que busca diversificação",
+    "fonte": "CDI 13,90% a.a. - setembro 2026"
+  },
+  {
+    "nome": "Fundo de Ações",
+    "categoria": "fundo",
+    "risco": "alto",
+    "rentabilidade_num": null,
+    "rentabilidade_tipo": "variavel",
+    "rentabilidade_desc": "Variável (Ibovespa)",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Perfil arrojado com foco no longo prazo",
+    "fonte": "Dados de mercado - setembro 2026"
+  },
+  {
+    "nome": "CDB Nubank",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade_num": 13.65,
+    "rentabilidade_tipo": "percentual_cdi",
+    "rentabilidade_desc": "100% do CDI",
+    "aporte_minimo": 1.00,
+    "indicado_para": "Conta digital com rendimento automático",
+    "fonte": "CDI 13,65% a.a. - setembro 2026"
+  },
+  {
+    "nome": "CDB Banco Inter",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade_num": 13.65,
+    "rentabilidade_tipo": "percentual_cdi",
+    "rentabilidade_desc": "100% do CDI",
+    "aporte_minimo": 1.00,
+    "indicado_para": "CDB de liquidez diária em banco digital",
+    "fonte": "CDI 13,65% a.a. - setembro 2026"
+  },
+  {
+    "nome": "CDB PicPay",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade_num": 13.92,
+    "rentabilidade_tipo": "percentual_cdi",
+    "rentabilidade_desc": "102% do CDI",
+    "aporte_minimo": 1.00,
+    "indicado_para": "Até R$ 100 mil - conta digital",
+    "fonte": "CDI 13,65% a.a. - setembro 2026"
+  },
+  {
+    "nome": "CDB Banco C6",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade_num": 16.11,
+    "rentabilidade_tipo": "percentual_cdi",
+    "rentabilidade_desc": "118% do CDI",
+    "aporte_minimo": 1.00,
+    "indicado_para": "Alto rendimento em banco digital",
+    "fonte": "CDI 13,65% a.a. - setembro 2026"
+  },
+  {
+    "nome": "Mercado Pago (conta)",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade_num": 13.65,
+    "rentabilidade_tipo": "percentual_cdi",
+    "rentabilidade_desc": "100% do CDI (automático)",
+    "aporte_minimo": 1.00,
+    "indicado_para": "Rendimento automático na conta digital",
+    "fonte": "CDI 13,65% a.a. - setembro 2026"
+  },
+  {
+    "nome": "Mercado Pago (Cofrinhos)",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade_num": 16.38,
+    "rentabilidade_tipo": "percentual_cdi",
+    "rentabilidade_desc": "120% do CDI (até R$ 10 mil)",
+    "aporte_minimo": 1.00,
+    "indicado_para": "Cofrinhos com rendimento turbinado",
+    "fonte": "CDI 13,65% a.a. - setembro 2026"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "data_atualizacao": "2026-09-26",
+  "fonte": "Sites públicos (web search)",
+  "taxa_selic": {
+    "valor": 13.75,
+    "unidade": "% a.a.",
+    "fonte": "Copom - setembro 2026",
+    "detalhes": "5º corte seguido, redução de 0,25pp"
+  },
+  "taxa_cdi": {
+    "valor": 13.90,
+    "unidade": "% a.a.",
+    "fonte": "Banco Central (SGS série 12)",
+    "detalhes": "CDI acumulado anual"
+  },
+  "mercado": {
+    "bvsp_atual": 183477,
+    "bvsp_variacao": -0.27,
+    "usd_brl": 5.187
+  },
+  "lista_cdb": [
+    {"instituicao": "Bancos médios", "rendimento": "até 108,50% do CDI", "liquidez": "12 meses"},
+    {"instituicao": "Bancos grandes", "rendimento": "100%-102% do CDI", "liquidez": "Diária"},
+    {"instituicao": "CDB Prefixado", "rendimento": "até 14,25% a.a.", "liquidez": "12+ meses"}
+  ],
+  "lista_tesouro": {
+    "Tesouro Selic": "100% da Selic",
+    "Tesouro IPCA+ 2032": "IPCA + 7,90%",
+    "Tesouro Prefixado 2029": "13,94% a.a."
+  },
+  "projeções": {
+    "selic_fim_2026": "13,50% (Focus)",
+    "selic_fim_2027": "12,00% (Focus)"
+  }
+}
