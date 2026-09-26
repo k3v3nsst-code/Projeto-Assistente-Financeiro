@@ -284,6 +284,6 @@ Este projeto é um protótipo educacional desenvolvido como parte de um desafio 
 
 ## 📄 Agradecimentos
 
-- **DIO / Intelone** pelo desafio que motivou este projeto
+- **DIO** pelo desafio que motivou este projeto
 - **Ollama** pelo modelo local gratuito
 - **Streamlit** pela interface simples e rápida
