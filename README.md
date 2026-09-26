@@ -90,19 +90,6 @@ Acesse `http://localhost:8501`.
 | **IPCA** | 4,44% a.a. |
 | **B3 (BVSP)** | ~183.477 |
 
-### Produtos Disponíveis (11)
-- Tesouro Selic
-- CDB Liquidez Diária
-- LCI/LCA
-- Fundo Multimercado
-- Fundo de Ações
-- **CDB Nubank** (100% CDI)
-- **CDB Banco Inter** (100% CDI)
-- **CDB PicPay** (102% CDI)
-- **CDB Banco C6** (118% CDI)
-- **Mercado Pago Conta** (100% CDI)
-- **Mercado Pago Cofrinhos** (120% CDI)
-
 ---
 
 ## Documentação Completa
