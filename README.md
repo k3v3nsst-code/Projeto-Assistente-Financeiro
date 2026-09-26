@@ -113,7 +113,7 @@ Catálogo com **11 produtos de investimento** divididos em categorias:
 
 | Categoria | Produtos |
 |-----------|----------|
-| **Renda Fixa** | Tesouro Selic, CDBs de liquidez diária, LCI/LCA, CDBs de bancos digitais, Mercado Pago |
+| **Renda Fixa** | Tesouro Selic, CDBs de liquidez diária, LCI/LCA, CDBs de bancos digitais |
 | **Fundos** | Fundo Multimercado, Fundo de Ações |
 
 Todos os produtos são verificados e listados no arquivo `data/produtos_financeiros.json`. Rentabilidades são calculadas automaticamente com base na taxa CDI do mercado.
