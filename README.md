@@ -1,4 +1,4 @@
-# 💎 Mentor Financeiro — Agente Inteligente (Aurora)
+# 💎 Agente Inteligente (Aurora)
 
 ## 📌 Sobre o Projeto
 
